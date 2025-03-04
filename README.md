@@ -1,3 +1,5 @@
+Authentication:
+![image](https://github.com/user-attachments/assets/70ebb17e-922b-4e9c-8eef-3a375ea57bd1)
 
 Admin:
 +GET:
